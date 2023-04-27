@@ -35,14 +35,13 @@ body {
 }
 .carousel .slide .bg {
   position: absolute;
-  z-index: -1;
   inset: 0;
   background-size: cover;
   background-position: center;
 }
 .carousel .slide .text {
   position: relative;
-  z-index: 1;
+  isolation: isolate;
   width: 100%;
   color: #fff;
   line-height: 1.2;
@@ -82,7 +81,6 @@ body {
      -moz-user-select: none;
           user-select: none;
   position: relative;
-  z-index: 1;
   background: #fff;
   width: 2.5rem;
   height: 2.5rem;
@@ -93,7 +91,6 @@ body {
 }
 .carousel nav .progress {
   position: absolute;
-  z-index: 1;
   bottom: 1rem;
   left: 50%;
   transform: translateX(-50%);
