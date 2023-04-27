@@ -1,6 +1,6 @@
 <img src="/src/assets/images/demo.png" />
 
-Demo version: https://mazhugasergei.github.io/carousel
+__Demo__: https://mazhugasergei.github.io/carousel
 
 ### Template
 
