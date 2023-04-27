@@ -1,3 +1,12 @@
+//! remove styles below as they are used for demo
+body{
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+}
+//! remove styles above as they are used for demo
+
 .carousel{
   overflow: hidden;
   position: relative;
@@ -5,14 +14,11 @@
   border: .0625rem solid #eee;
   border-radius: 1.25rem;
 
-  // remove styles below as they are used for demo
-  position: absolute; ////
-  left: 50%; ////
-  top: 50%; ////
-  transform: translate(-50%, -50%); ////
-  width: 40rem; ////
-  height: 20rem; ////
-  // remove styles above as they are used for demo
+  //! remove styles below as they are used for demo
+  width: 100%;
+  max-width: 40rem;
+  height: 20rem;
+  //! remove styles above as they are used for demo
 
   .slide{
     width: 100%;
