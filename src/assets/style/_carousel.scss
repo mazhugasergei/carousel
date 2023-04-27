@@ -1,12 +1,18 @@
 .carousel{
   overflow: hidden;
   position: relative;
-  max-width: 40rem; ////
-  height: 20rem; ////
   display: flex;
   border: .0625rem solid #eee;
   border-radius: 1.25rem;
-  margin: 2rem auto 0; ////
+
+  // remove styles below as they are used for demo
+  position: absolute; ////
+  left: 50%; ////
+  top: 50%; ////
+  transform: translate(-50%, -50%); ////
+  width: 40rem; ////
+  height: 20rem; ////
+  // remove styles above as they are used for demo
 
   .slide{
     width: 100%;
