@@ -1,4 +1,4 @@
-__Demo__: https://mazhugasergei.github.io/carousel
+### Demo: https://mazhugasergei.github.io/carousel
 
 <img src="/src/assets/images/demo.png" />
 
