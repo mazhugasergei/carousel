@@ -1,4 +1,4 @@
-### Demo: https://mazhugasergei.github.io/carousel
+### Demo: <a target="_blank" href="https://mazhugasergei.github.io/carousel">https://mazhugasergei.github.io/carousel</a>
 
 <img src="/src/assets/images/demo.png" />
 
